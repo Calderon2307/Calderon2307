@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>About Me</h2>
+<h2>About Me 😐 </h2>
 <p>Web developer focused on frontend, always eager to tackle new challenges. Passionate about continuous learning and growth, with solid frontend skills and backend knowledge that is continually being refined.</p>
 
 <p>If you're looking for someone driven to learn and contribute, joining your team would be an exciting opportunity.</p>
@@ -95,7 +95,7 @@
 
 <br>
 
-<h2>Featured Projects</h2>
+<h2>Featured Projects 💻</h2>
 
 <table align="center">
   <tr>
@@ -128,13 +128,18 @@
       <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Questions-API_React" target="_blank">View Repository</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <h3><a href="https://github.com/Calderon2307/Portafolio_Web" target="_blank">View all projects</a></h3>
+    </td>
+  </tr>
 </table>
 
 
 
 <br>
 
-<h2>Github Stats</h2>
+<h2>Github Stats 📊</h2>
 <p align="center">
   <table align="center">
     <tr border="none">
@@ -157,7 +162,7 @@
 
 <br>
 
-<h2>Contact Me</h2>
+<h2>Contact Me 📞</h2>
 <p align="center">
   <a href="mailto:federicocalderon0@gmail.com" title="Gmail" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
@@ -170,7 +175,7 @@
 <br>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAyNzE1NDksIm5iZiI6MTczMDI3MTI0OSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMwVDA2NTQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5NWE1YWZiOWVhZWUzMDdmODkwZDczZGJhYzhjOWZhMTQ4MDA2OTQxYTI0NTRlMTM1YTIyNzhlZTkzNjI4NTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.izNckv7tqIClE1T7XOljuY85MK4PUF37Q8jCJP1yOYM" width="250px" />
+  <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/lets_code.gif" width="350px" />
   
   <br>
 
