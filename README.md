@@ -1,3 +1,4 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAyNjk1NzUsIm5iZiI6MTczMDI2OTI3NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMwVDA2MjExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkZWQwNTA0ZGRlZDI1MThhM2NlMDYyMGY4YmQzZDA2NTg5OTlhODE2M2EwYzVhYmFiMmNmZmRmNDE5NGM2ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DsO1k0B5LDB5fCssNIn1hB5lVmg4wqlpmke0g-ah-X0" />
 <h1 align="center"><b>Hi , I'm Fede Calerón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -13,7 +14,7 @@
 
 <br>
 
-<h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
+<h2>Technologies <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width ="25" align="bottom"></h2>
 
 <h3>Programming Languages:</h3>
 <p align="center">
@@ -99,38 +100,41 @@
 <table align="center">
   <tr>
     <!-- Project 1 -->
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/150" alt="Project 1 Image" width="150px" height="150px" />
-      <h3>Project 1</h3>
-      <p>React, Tailwind, Node.js</p>
-      <a href="https://github.com/Calderon2307/project1" target="_blank">View Repository</a>
+    <td align="center" width="200">
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Nasa_React.png" alt="Nasa Project Image" width="150px" height="150px" />
+      <h3>NASA</h3>
+      <p>HTML, CSS, JS, React</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Nasa-API_React" target="_blank">View Repository</a>
     </td>
     <!-- Project 2 -->
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/150" alt="Project 2 Image" width="150px" height="150px" />
-      <h3>Project 2</h3>
-      <p>Kotlin, Retrofit</p>
-      <a href="https://github.com/Calderon2307/project2" target="_blank">View Repository</a>
+    <td align="center" width="200">
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Pokedex.png" alt="Pokedex Project Image" width="150px" height="150px" />
+      <h3>Pokedex</h3>
+      <p>HTML, CSS, JS</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Pokedex_JS" target="_blank">View Repository</a>
     </td>
     <!-- Project 3 -->
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/150" alt="Project 3 Image" width="150px" height="150px" />
-      <h3>Project 3</h3>
-      <p>HTML, CSS, JavaScript</p>
-      <a href="https://github.com/Calderon2307/project3" target="_blank">View Repository</a>
+    <td align="center" width="200">
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Sabores_en_Reserva.png" alt="Flavors in Reserve Project Image" width="150px" height="150px" />
+      <h3>Flavors in Reserve</h3>
+      <p>HTML, CSS, JS, React</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Proyecto_Sabores-En-Reserva_React" target="_blank">View Repository</a>
     </td>
     <!-- Project 4 -->
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/150" alt="Project 4 Image" width="150px" height="150px" />
-      <h3>Project 4</h3>
-      <p>React, Express, MongoDB</p>
-      <a href="https://github.com/Calderon2307/project4" target="_blank">View Repository</a>
+    <td align="center" width="200">
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Trivia_React.png" alt="Trivia Project Image" width="150px" height="150px" />
+      <h3>Trivia</h3>
+      <p>HTML, CSS, JS, React</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Questions-API_React" target="_blank">View Repository</a>
     </td>
   </tr>
 </table>
 
+
+
 <br>
 
+<h2>Github Stats</h2>
 <p align="center">
   <table align="center">
     <tr border="none">
@@ -163,8 +167,16 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Calderon2307&label=Profile%20Views&color=1&icon=5&pretty=true" />
-  </a>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAyNzE1NDksIm5iZiI6MTczMDI3MTI0OSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMwVDA2NTQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5NWE1YWZiOWVhZWUzMDdmODkwZDczZGJhYzhjOWZhMTQ4MDA2OTQxYTI0NTRlMTM1YTIyNzhlZTkzNjI4NTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.izNckv7tqIClE1T7XOljuY85MK4PUF37Q8jCJP1yOYM" width="250px" />
+  
+  <br>
+
+  <div>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=Calderon2307&label=Profile%20Views&color=1&icon=5&pretty=true" />
+    </a>
+  </div>
+</div>
