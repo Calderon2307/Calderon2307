@@ -13,7 +13,7 @@
 
 <br>
 
-<h2>Technologies</h2>
+<h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h2>
 
 <h3>Programming Languages:</h3>
 <p align="center">
@@ -93,6 +93,44 @@
 </p>
 
 <br>
+
+<h2>Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/150" alt="Project 1 Image" width="150px" height="150px" />
+      <h3>Project 1</h3>
+      <p>React, Tailwind, Node.js</p>
+      <a href="https://github.com/Calderon2307/project1" target="_blank">View Repository</a>
+    </td>
+    <!-- Project 2 -->
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/150" alt="Project 2 Image" width="150px" height="150px" />
+      <h3>Project 2</h3>
+      <p>Kotlin, Retrofit</p>
+      <a href="https://github.com/Calderon2307/project2" target="_blank">View Repository</a>
+    </td>
+    <!-- Project 3 -->
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/150" alt="Project 3 Image" width="150px" height="150px" />
+      <h3>Project 3</h3>
+      <p>HTML, CSS, JavaScript</p>
+      <a href="https://github.com/Calderon2307/project3" target="_blank">View Repository</a>
+    </td>
+    <!-- Project 4 -->
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/150" alt="Project 4 Image" width="150px" height="150px" />
+      <h3>Project 4</h3>
+      <p>React, Express, MongoDB</p>
+      <a href="https://github.com/Calderon2307/project4" target="_blank">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
   <table align="center">
     <tr border="none">
