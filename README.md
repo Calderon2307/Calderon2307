@@ -43,6 +43,9 @@
   <a href="https://skillicons.dev" title="JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
+  <a href="https://skillicons.dev" title="TypeScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
   <a href="https://skillicons.dev" title="React" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
@@ -167,7 +170,7 @@
   <a href="mailto:federicocalderon0@gmail.com" title="Gmail" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/federico-calderon-6a8b5b23b/" title="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/federico-calderon-230715-v/" title="Linkedin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </p>
