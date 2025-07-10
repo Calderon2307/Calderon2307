@@ -8,7 +8,7 @@
 <br>
 
 <h2>About Me 😐 </h2>
-<p>Web developer focused on frontend, always eager to tackle new challenges. Passionate about continuous learning and growth, with solid frontend skills and backend knowledge that is continually being refined.</p>
+<p>Fullstack Web developer focused on frontend, always eager to tackle new challenges. Passionate about continuous learning and growth, with solid frontend skills and backend knowledge that is continually being refined.</p>
 
 <p>If you're looking for someone driven to learn and contribute, joining your team would be an exciting opportunity.</p>
 
@@ -20,6 +20,12 @@
 <p align="center">
   <a href="https://skillicons.dev" title="JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://skillicons.dev" title="TypeScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://skillicons.dev" title="Java" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
   <a href="https://skillicons.dev" title="Kotlin" target="_blank">
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
@@ -59,6 +65,12 @@
 
 <h3>Backend:</h3>
 <p align="center">
+  <a href="https://skillicons.dev" title="Java" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://skillicons.dev" title="Spring Boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  </a>
   <a href="https://skillicons.dev" title="Express" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" />
   </a>
@@ -88,6 +100,9 @@
   <a href="https://skillicons.dev" title="Visual Studio Code" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
   </a>
+  <a href="https://skillicons.dev" title="IntelliJ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" />
+  </a>
   <a href="https://skillicons.dev" title="Vite" target="_blank">
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
   </a>
@@ -111,17 +126,17 @@
     </td>
     <!-- Project 2 -->
     <td align="center" width="200">
-      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Pokedex.png" alt="Pokedex Project Image" width="150px" height="150px" />
-      <h3>Pokedex</h3>
-      <p>HTML, CSS, JS</p>
-      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Pokedex_JS" target="_blank">View Repository</a>
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/PokedexV2.png" alt="Pokedex V2 Project Image" width="150px" height="150px" />
+      <h3>Pokedex - V2</h3>
+      <p>React, CSS, TS</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_PokedexV2_React" target="_blank">View Repository</a>
     </td>
     <!-- Project 3 -->
     <td align="center" width="200">
-      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Sabores_en_Reserva.png" alt="Flavors in Reserve Project Image" width="150px" height="150px" />
-      <h3>Flavors in Reserve</h3>
-      <p>HTML, CSS, JS, React</p>
-      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Frontend_Proyecto_Sabores-En-Reserva_React" target="_blank">View Repository</a>
+      <img src="https://github.com/Calderon2307/Calderon2307/blob/main/assets/Task_Me_Backend.png" alt="Task Me! Backend Project Image" width="150px" height="150px" />
+      <h3>Task Me! - Backend</h3>
+      <p>Java, Spring Boot</p>
+      <a href="https://github.com/Calderon2307/Portafolio_Web/tree/main/Backend_TaskMe" target="_blank">View Repository</a>
     </td>
     <!-- Project 4 -->
     <td align="center" width="200">
