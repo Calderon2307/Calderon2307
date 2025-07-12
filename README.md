@@ -77,6 +77,9 @@
   <a href="https://skillicons.dev" title="Node.js" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
+  <a href="https://skillicons.dev" title="Postgre SQL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgre SQL" />
+  </a>
 </p>
 
 <h3>Mobile:</h3>
